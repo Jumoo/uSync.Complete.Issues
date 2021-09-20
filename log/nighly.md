@@ -41,7 +41,8 @@ this doc is a log of changes (as best we can remember) as we do this.
 - Publisher 
   - Fix the dialogs on the browser dashboards for media and content
 
-### BUILD: `Install-Package uSync.Complete -version 9.0.0-beta005.20210920.3`
+### BUILD: `Install-Package uSync.Complete -version 9.0.0-beta005.20210920.4`
 
  - Publisher
   - Extra null checks on the LanguageItemManager 
+  - Logging around language items. 
