@@ -1,4 +1,4 @@
-# nightly log. 
+# uSync.Complete v9 - nightly log. 
 
 As we approach relase of v9 - we are rapidly itterating to squash the last few bugs, get performance right and get everything working. 
 We are building new builds all the time and pushing then to our nightly feed: 
