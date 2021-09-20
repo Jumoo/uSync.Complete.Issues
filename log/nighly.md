@@ -21,3 +21,11 @@ this doc is a log of changes (as best we can remember) as we do this.
   - removal of IncludeChildren on first pass of dependency checking (should reduce checks)
 
 > BUILD: `Install-Package uSync.Complete -version 9.0.0-beta005.20210918.8`
+
+# 20/09/2021
+
+- Snapshots
+  - Fixed snapshot name dropdown
+  - Fixed signalR initalization (so you see progress)
+
+> BUILD: `Install-Package uSync.Complete -version 9.0.0-beta005.20210920.1`
