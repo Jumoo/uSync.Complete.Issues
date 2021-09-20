@@ -22,7 +22,7 @@ this doc is a log of changes (as best we can remember) as we do this.
 
 > BUILD: `Install-Package uSync.Complete -version 9.0.0-beta005.20210918.8`
 
-# 20/09/2021
+## 20/09/2021
 
 - Snapshots
   - Fixed snapshot name dropdown
