@@ -46,3 +46,10 @@ this doc is a log of changes (as best we can remember) as we do this.
 - Publisher
   - Extra null checks on the LanguageItemManager 
   - Logging around language items. 
+
+### BUILD: `Install-Package uSync.Complete -version 9.0.0-beta005.20210920.5`
+
+- Publisher
+  - Fix blank dashboard - makes language a guid udi, when its a string.
+
+
