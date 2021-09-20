@@ -7,7 +7,7 @@ https://pkgs.dev.azure.com/jumoo/Public/_packaging/nightly/nuget/v3/index.json
 
 this doc is a log of changes (as best we can remember) as we do this. 
 
-# 17/09/2021
+## 17/09/2021
 - Publisher 
   -  Moved the Licence file to /umbraco/licenses
   - don't default to the 'blank' site page on the dashboard anymore.
@@ -15,7 +15,7 @@ this doc is a log of changes (as best we can remember) as we do this.
 
 > BUILD `Install-Package uSync.Complete -version 9.0.0-beta005.20210917.5`
 
-# 18/09/2021
+## 18/09/2021
 - Publisher
   - Logging around the dependecny checking to see if we can identify any bottle necks.
   - removal of IncludeChildren on first pass of dependency checking (should reduce checks)
